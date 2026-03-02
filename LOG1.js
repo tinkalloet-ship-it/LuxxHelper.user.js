@@ -13,7 +13,7 @@
 
   // ==================== REMOTE CONFIGURATION ====================
   const CONFIG_URL = 'https://raw.githubusercontent.com/tinkalloet-ship-it/LuxxHelper.user.js/refs/heads/main/config.json'; // ← CHANGE THIS
-  const DEFAULT_REFRESH_INTERVAL = 1; // minutes
+  const DEFAULT_REFRESH_INTERVAL = 0.5; // minutes
 
   const DEFAULT_CONFIG = {
     enabled: true,
