@@ -821,7 +821,7 @@
     };
 
     // Add main detail cards - AMOUNT FIRST with special styling
-    const amountCard = createDetailCard(AUD', 'Amount', data.amount, 'amount-card');
+    const amountCard = createDetailCard('AUD', 'Amount', data.amount, 'amount-card');
     if (amountCard) gridDiv.appendChild(amountCard);
     
     const addIfPresent = (card) => { if (card) gridDiv.appendChild(card); };
