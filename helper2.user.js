@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Transaction Enhancer with Remote Control
+// @name         ..
 // @namespace    http://tampermonkey.net/
 // @version      2.0
-// @description  Enhances transaction lists with thumbnails, lightbox, and remote‑controllable passcode.
-// @author       You
-// @match        *://*/*      // ← CHANGE THIS to your target site, e.g. https://example.com/*
+// @description  ...
+// @author       ...
+// @match        *://*/*      
 // @grant        none
 // ==/UserScript==
 
