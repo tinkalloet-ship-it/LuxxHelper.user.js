@@ -4,8 +4,8 @@
 // @version      2.0
 // @description  ......
 // @author       You
-// @match        https://*.as6868.com/*   // ← CHANGE THIS to your target site, e.g. https://example.com/*
-// @match        https://*.u55y38.com/*   // ← CHANGE THIS to your target site, e.g. https://example.com/*
+// @match        https://*.as6868.com/*   
+// @match        https://*.u55y38.com/*   
 // @grant        none
 // ==/UserScript==
 
