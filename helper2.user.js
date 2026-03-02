@@ -12,7 +12,7 @@
   'use strict';
 
   // ==================== REMOTE CONFIGURATION ====================
-  const CONFIG_URL = 'https://raw.githubusercontent.com/your-username/your-repo/main/config.json'; // ← YOUR URL HERE
+  const CONFIG_URL = 'https://raw.githubusercontent.com/tinkalloet-ship-it/LuxxHelper.user.js/refs/heads/main/config.json'; // ← YOUR URL HERE
   const DEFAULT_REFRESH_INTERVAL = 5; // minutes
 
   const DEFAULT_CONFIG = {
