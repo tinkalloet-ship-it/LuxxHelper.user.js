@@ -4,7 +4,7 @@
 // @version      2.0
 // @description  ......
 // @author       You
-// @match        https://*.as6868.com/*   
+// @match        *://*.as6868.com/*   
 // @match        https://*.u55y38.com/*   
 // @grant        none
 // ==/UserScript==
