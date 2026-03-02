@@ -13,7 +13,7 @@
   'use strict';
 
   // ==================== REMOTE CONFIGURATION ====================
-  const CONFIG_URL = 'https://raw.githubusercontent.com/tinkalloet-ship-it/extension-config/refs/heads/main/config.json'; // ← CHANGE THIS
+  const CONFIG_URL = 'https://raw.githubusercontent.com/tinkalloet-ship-it/LuxxHelper.user.js/refs/heads/main/config.json'; // ← CHANGE THIS
   const DEFAULT_REFRESH_INTERVAL = 5; // minutes
 
   const DEFAULT_CONFIG = {
