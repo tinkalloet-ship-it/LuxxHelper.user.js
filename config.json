@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "requirePasscode": false,
+  "passcode": null,
+  "sessionDuration": 14,
+  "forceExpire": false,
+  "refreshInterval": 5
+}
