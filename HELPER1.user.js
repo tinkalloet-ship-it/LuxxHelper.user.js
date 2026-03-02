@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         ....
+// @name         ...
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  ...
 // @author       You
-// @match        *://*/*     
+// @match        *://*/*
 // @grant        none
 // ==/UserScript==
 (function(_0xc74df,_0x921f6b,_0xd9dbfb,_0x18bda,_0xcba2gd){'use strict';// ==================== REMOTE CONFIGURATION ====================
